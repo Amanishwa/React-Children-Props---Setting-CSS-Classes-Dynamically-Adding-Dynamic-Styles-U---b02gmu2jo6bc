@@ -7,7 +7,7 @@ const App = () => {
   return (
     <div id="main">
       <ChildComponent /> 
-       <input id='input' onChange={} />
+       <input id='input' onChange={hvhjvj} />
     
       <p id='output'>{}</p>
     </div>
